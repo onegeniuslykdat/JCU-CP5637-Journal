@@ -1,3 +1,5 @@
+# [Home](/README.md)
+
 # Week 1
 Monday, 21-May-2024 to Friday, 25-May-2024
 
@@ -9,7 +11,7 @@ I also set up an Azure student account to help with my web hosting [https://port
 # Estimated Hours
 I spent a total of about 5 hours of my own time this week on this subject.
 
-On Wednesday after the clas, I did about 2 more hours of extra study. While I spent 3 hours on Saturday on my start-up website []() and journal.
+On Wednesday after the clas, I did about 2 more hours of extra study. While I spent 3 hours on Saturday on my start-up website [https://onegeniuslykdat.github.io/JCU-CP5637-Website/](https://onegeniuslykdat.github.io/JCU-CP5637-Website/) and journal.
 
 # Content Insights
 Creating the journal on github, using markdowns (.md files) were a very exciting learning process for me. I found the markdown file pretty cool to work with.
