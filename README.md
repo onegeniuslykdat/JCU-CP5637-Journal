@@ -1,1 +1,4 @@
-# [My Repo for CP5637 Learning Journals](https://github.com/CP3402/subject/wiki)
+# My Repo for CP5637
+The repo contains:
+* Weekly Pracs
+* Weekly Journals
