@@ -1,5 +1,3 @@
-# [Home](/README.md)
-
 # Week 1
 Monday, 21-May-2024 to Friday, 25-May-2024
 
