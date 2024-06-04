@@ -2,21 +2,24 @@
 Monday, 28-May-2024 to Saturday, 01-Jun-2024
 
 # Learning Activities & Resources
-***This week I set up a student LinkedIn Learning account [https://www.linkedin.com/learning/me/my-library/in-progress?u=2223545](https://www.linkedin.com/learning/me/my-library/in-progress?u=2223545) and studied a bit of the Introduction to web design and development course.
+***This week I learnt about Static (issues, need to upload files manually, ftp, too many files, etc) v Dynamic websites (issues, more complex and overhead). Customizing dynamic sites with db, etc, useful for CRUD, user registration, content presentation, interactivity e.g. likes, voting, etc
+https://wsvincent.com/static-vs-dynamic-websites-pros-and-cons/
 
-***I also set up an Azure student account to help with my web hosting [https://portal.azure.com/?Microsoft_Azure_Education_correlationId=31779fb5-d4c5-4fe1-9cec-c0a1ccb5814b&Microsoft_Azure_Education_newA4E=true&Microsoft_Azure_Education_asoSubGuid=45add313-2d72-49ea-921a-6799e8668c79#view/Microsoft_Azure_Education/EducationMenuBlade/~/overview](https://portal.azure.com/?Microsoft_Azure_Education_correlationId=31779fb5-d4c5-4fe1-9cec-c0a1ccb5814b&Microsoft_Azure_Education_newA4E=true&Microsoft_Azure_Education_asoSubGuid=45add313-2d72-49ea-921a-6799e8668c79#view/Microsoft_Azure_Education/EducationMenuBlade/~/overview). 
+***I also learnt about the top CMS Joomla, Wordpress, Drupal
+https://forum.joomla.org/
+comparing cms
 
 # Estimated Hours
 ***I spent a total of about 5 hours of my own time this week on this subject.
 
-***On Wednesday after the clas, I did about 2 more hours of extra study. While I spent 3 hours on Saturday on my start-up website [https://onegeniuslykdat.github.io/JCU-CP5637-Website/](https://onegeniuslykdat.github.io/JCU-CP5637-Website/) and journal.
+***On Saturday, I did about an hour of study. While I spent 2 hours each, the following week, on Monday and Tuesday working on setting up my Joomla *** [***](***) as well as my journal 
 
 # Content Insights
-***Creating the journal on github, using markdowns (.md files) were a very exciting learning process for me. I found the markdown file pretty cool to work with.
+***Creating the CMS ***very exciting learning process for me. I found the *** pretty cool to work with.
 
-***I also found using Github Pages to host static web pages very helpful.
+***I also found using *** very helpful.
 
 # Career/Employability/Learning Insights
-***I looked at the LinkedIn Learning course on Introduction to web design and development course to see if I could get some extra help with my start-up website.
+***I looked at the Exploring No Code Solutions section of the LinkedIn Learning course on Introduction to web design and development course to see if I could get some extra help with my start-up website.
 
-***I also did extra learning about markdowns on [https://daringfireball.net/projects/markdown/basics](https://daringfireball.net/projects/markdown/basics) and learnt more about Github Pages on [https://docs.github.com/en/pages/getting-started-with-github-pages/creating-a-github-pages-site](https://docs.github.com/en/pages/getting-started-with-github-pages/creating-a-github-pages-site).
+***I also did extra learning about markdowns on ***
