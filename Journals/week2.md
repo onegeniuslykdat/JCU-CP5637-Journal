@@ -1,5 +1,5 @@
 # Week 2
-Monday, 28-May-2024 to Saturday, 01-Jun-2024
+Monday, 27-May-2024 to Saturday, 01-Jun-2024
 
 # Learning Activities & Resources
 This week I learnt about Static and Dynamic websites (issues, more complex and overhead). Static websites are generally easier to build, while dynamic websites are more complex, but more robust. According to [Static vs Dynamic websites: Pros and Cons](https://wsvincent.com/static-vs-dynamic-websites-pros-and-cons/)
