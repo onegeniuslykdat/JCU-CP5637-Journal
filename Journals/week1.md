@@ -1,5 +1,5 @@
 # Week 1
-Monday, 21-May-2024 to Saturday, 25-May-2024
+Monday, 20-May-2024 to Saturday, 25-May-2024
 
 # Learning Activities & Resources
 This week I set up a student LinkedIn Learning account [https://www.linkedin.com/learning/me/my-library/in-progress?u=2223545](https://www.linkedin.com/learning/me/my-library/in-progress?u=2223545) and studied a bit of the Introduction to web design and development course.
