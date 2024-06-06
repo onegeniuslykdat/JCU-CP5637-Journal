@@ -1,6 +1,11 @@
 # Week 3
 Monday, 03-May-2024 to Saturday, 08-Jun-2024
 
+Group member questions:
+What are your strengths?
+What are your weaknesses?
+What is your most frequesnt mode of communication?
+
 # Learning Activities & Resources ***
 This week I learnt about Static and Dynamic websites (issues, more complex and overhead). Static websites are generally easier to build, while dynamic websites are more complex, but more robust. According to [Static vs Dynamic websites: Pros and Cons](https://wsvincent.com/static-vs-dynamic-websites-pros-and-cons/)
 * Static websites are: fast, cheap and simpler for a developer to setup. However, they require a developer to update content, and can get very bulky, since new files need to be created per content.
