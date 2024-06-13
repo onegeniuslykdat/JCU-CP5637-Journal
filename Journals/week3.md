@@ -1,7 +1,7 @@
 # Week 3
 Monday, 03-June-2024 to Saturday, 08-Jun-2024
 
-# Learning Activities & Resources
+# Learning Activities & Resources***
 This week I learnt about the most popular Content Management System (CMS), Wordpress, in terms of traffic as revealed by [W3Techs](https://w3techs.com/technologies/overview/content_management) in this image below
 ![Top CMS](https://www.bacancytechnology.com/blog/wp-content/uploads/2020/07/WordPress-Joomla-Drupal-Usage-Statistics.png)
 
