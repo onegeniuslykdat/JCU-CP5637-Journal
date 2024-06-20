@@ -8,8 +8,8 @@ This week I learnt about the deployments and development environments. We looked
 * Production environment - the live environment which end users interact with. Production environments are typically created in Linux servers.
 
 We also looked at deployment workflows. These are systematic and automated processes for moving files and configurations (such as database) from local development environment to staging or production development environments. Good workflows must include version control systems. We also learnt about the linux/unix shell for writing scripts and managing file permissions used in deployment workflows. We were introduced to:
-* AWs on Vagrant [AWS WordPress](https://github.com/lindsaymarkward/awswordpress)
-* WordMove [Wordmove:- Welaika](https://github.com/welaika/wordmove)
+* AWs on Vagrant ([AWS WordPress](https://github.com/lindsaymarkward/awswordpress))
+* WordMove ([Wordmove:- Welaika](https://github.com/welaika/wordmove))
 
 # Estimated Hours
 I spent a total of about 6 hours of my own time this week on this subject. On the Monday, Wednesday and Thursday of the following week, I spent 2 hours each day, working on:
@@ -31,7 +31,7 @@ I looked at various options for having development environments, such as AWS, Wo
 I particulary liked the WordPress hosting on Azure, as this exposed me to the linux SSH and I learnt some new commands. It also integrates easily with GitHub in using deployment center, which is essential for workflows.
 
 Learning about Wordpress deployment workflows is very helpful. I used the following workflow:
-* From WordPress to GitHub: [Wordpress GitHubRepo](https://github.com/onegeniuslykdat/cp5637wordpresstest)
+* From WordPress to GitHub: ([Wordpress GitHubRepo](https://github.com/onegeniuslykdat/cp5637wordpresstest))
 ![WordPress All-In-One plugin](images/all_in_one_WP_migration.png)
   
 * From GitHub to Azure
