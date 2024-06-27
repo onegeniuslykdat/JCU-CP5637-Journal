@@ -2,7 +2,8 @@
 Monday, 17-June-2024 to Saturday, 22-Jun-2024
 
 # Learning Activities & Resources***
-This week I learnt about the deployments and development environments. We looked at the standard development environments, consisting of local, staging and production.
+This week I learnt about child themes and their importance***
+he deployments and development environments. We looked at the standard development environments, consisting of local, staging and production.
 * Local environment - using stacks and tools like .Net, iisExpress, XAMP, LAMP, mySQL, SQL-Server, Apache, NG-Inx, etc to develop on your machine. It is often not available online. In the case when a staging environment is not used, a virtual machine which imitates the production environment can be used on the local computer.
 * Staging environment - an optional copy of the production environment and available online for ver few. It is typically used to get feedback from a client.
 * Production environment - the live environment which end users interact with. Production environments are typically created in Linux servers.
@@ -13,12 +14,12 @@ We also looked at deployment workflows. These are systematic and automated proce
 
 # Estimated Hours***
 I spent a total of about 6 hours of my own time this week on this subject. On the Monday, Wednesday and Thursday of the following week, I spent 2 hours each day, working on:
-* creating a development environment,
-* creating a workflow and
+* creating a child theme,
 * creating my journal.
 
 # Content Insights***
-This week's content introduced the standard development environments used in the industry. These are the local environment, staging and production environments. I also learnt about differnet workflows for WordPress, namely:
+This week's content introduced me to child themes
+the standard development environments used in the industry. These are the local environment, staging and production environments. I also learnt about differnet workflows for WordPress, namely:
 * AWS on Vagrant
 * Wordmove
 * WordPress on Azure app Service, which I discovered.
@@ -26,7 +27,8 @@ This week's content introduced the standard development environments used in the
 In order to setup workflows with version control, I created a GitHub repository and using the All-In-One WP Migration plugin, I exported my WordPress website into the GitHub repository. Then I created the deployment workflow into my Azure App Service.
 
 # Career/Employability/Learning Insights***
-I looked at various options for having development environments, such as AWS, Wordmove and Azure. I found the Azure platform very easy to use and there were free services available for students. In Azure, I looked at using [Windows Virtual Machines (VM)s](https://learn.microsoft.com/en-us/azure/virtual-machines/windows/quick-create-portal?WT.mc_id=UI_empg) as well as [Linux VMs](https://learn.microsoft.com/en-us/azure/virtual-machines/linux/quick-create-portal?WT.mc_id=UI_empg&tabs=ubuntu) as an environment. I also looked at using [Azure App Service](https://learn.microsoft.com/en-us/azure/app-service/overview?WT.mc_id=APC-AppServices) and I learnt about [WordPress hosting on Azure](https://learn.microsoft.com/en-us/azure/app-service/migrate-wordpress?source=recommendations), using the All-in-One WP Migration plugin on WordPress. I was able to setup my own AppServcie using the WordPress hosting on Azure option.
+I looked at various options for child themes
+having development environments, such as AWS, Wordmove and Azure. I found the Azure platform very easy to use and there were free services available for students. In Azure, I looked at using [Windows Virtual Machines (VM)s](https://learn.microsoft.com/en-us/azure/virtual-machines/windows/quick-create-portal?WT.mc_id=UI_empg) as well as [Linux VMs](https://learn.microsoft.com/en-us/azure/virtual-machines/linux/quick-create-portal?WT.mc_id=UI_empg&tabs=ubuntu) as an environment. I also looked at using [Azure App Service](https://learn.microsoft.com/en-us/azure/app-service/overview?WT.mc_id=APC-AppServices) and I learnt about [WordPress hosting on Azure](https://learn.microsoft.com/en-us/azure/app-service/migrate-wordpress?source=recommendations), using the All-in-One WP Migration plugin on WordPress. I was able to setup my own AppServcie using the WordPress hosting on Azure option.
 
 Below is my configuration dashboard:
 ![WordPress on Azure App service](images/wordpress_on_azure.png)
