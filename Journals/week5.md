@@ -12,5 +12,5 @@ I spent a total of about 4 hours of my own time this week on this subject. On We
 # Content Insights
 This week's content introduced me to child themes and some of the ways to create child themes
 
-# Career/Employability/Learning Insights***
+# Career/Employability/Learning Insights
 I looked at various options for child themes on Wordpress and I enjoyed creating a child theme for my WordPress site. On the Joomla end, it was a bit tricky and more complex.
