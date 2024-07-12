@@ -1,5 +1,16 @@
-# Week 4
-Monday, 10-June-2024 to Saturday, 15-Jun-2024***
+# Week 6
+Monday, 08-Jul-2024 to Saturday, 13-Jul-2024
+
+
+******************************************************************************************************************************************
+***Task: Complete setting up all of the teamwork tools, make at least one GitHub commit (see a message in your integrated/linked Slack group), and complete your group agreement in your project board.
+***Submit:
+***Each student provide links to your teamwork tools: Slack channel (and Discord if you're using it), GitHub repo and either Trello board or GitHub project - containing something you have contributed to the planning for your project or initial group setup.
+***A link to your LinkedIn profile (showing connections with teammates)
+***A link to your learning journal entry (Learning on Project Management)
+***Slack: https://app.slack.com/client/T1HPNSNKT/C078QLM30R4
+***LinkedIn: https://au.linkedin.com/in/anthony-u-onyekwere-123b18128
+******************************************************************************************************************************************
 
 # Learning Activities & Resources***
 This week I learnt about the deployments and development environments. We looked at the standard development environments, consisting of local, staging and production.
@@ -12,10 +23,9 @@ We also looked at deployment workflows. These are systematic and automated proce
 * WordMove ([Wordmove:- Welaika](https://github.com/welaika/wordmove))
 
 # Estimated Hours***
-I spent a total of about 6 hours of my own time this week on this subject. On the Monday, Wednesday and Thursday of the following week, I spent 2 hours each day, working on:
-* creating a development environment,
-* creating a workflow and
-* creating my journal.
+I spent a total of about 6 hours of my own time this week on this subject. On Friday, the next day after class, I spent an hour working on setting up my journal. I spent an additional hour on Saturday, the next day, setting up github/project/trello/etc***. The following week, on Monday and Wednesday, I spent 2 hours each day, working on:
+* ***
+* ***
 
 # Content Insights***
 This week's content introduced the standard development environments used in the industry. These are the local environment, staging and production environments. I also learnt about differnet workflows for WordPress, namely:
