@@ -12,47 +12,32 @@ Monday, 08-Jul-2024 to Saturday, 13-Jul-2024
 ***LinkedIn: https://au.linkedin.com/in/anthony-u-onyekwere-123b18128
 ******************************************************************************************************************************************
 
-# Learning Activities & Resources***
-This week I learnt about the deployments and development environments. We looked at the standard development environments, consisting of local, staging and production.
-* Local environment - using stacks and tools like .Net, iisExpress, XAMP, LAMP, mySQL, SQL-Server, Apache, NG-Inx, etc to develop on your machine. It is often not available online. In the case when a staging environment is not used, a virtual machine which imitates the production environment can be used on the local computer.
-* Staging environment - an optional copy of the production environment and available online for ver few. It is typically used to get feedback from a client.
-* Production environment - the live environment which end users interact with. Production environments are typically created in Linux servers.
+# Learning Activities & Resources
+This week I learnt about project management, specifically, setting up IT based projects and the tools involved. I also learnt abut good practices involved in project management. Some of which are:
+* Regular communication such as stand-up meetings and the use of instant messaging apps such as Teams and Slack.
+* Tasks management with the use of tools like Trello, Azure Board, GitHub Projects amongst others.
+* Version control systems such as GitHub and Azure Dev-Ops
 
-We also looked at deployment workflows. These are systematic and automated processes for moving files and configurations (such as database) from local development environment to staging or production development environments. Good workflows must include version control systems. We also learnt about the linux/unix shell for writing scripts and managing file permissions used in deployment workflows. We were introduced to:
-* AWs on Vagrant ([AWS WordPress](https://github.com/lindsaymarkward/awswordpress))
-* WordMove ([Wordmove:- Welaika](https://github.com/welaika/wordmove))
+Finally, I also liaised with my group members to put into practice some of the things we had learnt.
 
-# Estimated Hours***
-I spent a total of about 6 hours of my own time this week on this subject. On Friday, the next day after class, I spent an hour working on setting up my journal. I spent an additional hour on Saturday, the next day, setting up github/project/trello/etc***. The following week, on Monday and Wednesday, I spent 2 hours each day, working on:
-* ***
-* ***
+# Estimated Hours
+I spent a total of about 6 hours of my own time this week on this subject. On Friday, the next day after class, I spent an hour working on setting up my journal. I spent two additional hours on Saturday, the next day, with my group members in order to setup our project and connecting on LinkedIn. The following Wednesday, I spent 2 hours working on this journal.
 
-# Content Insights***
-This week's content introduced the standard development environments used in the industry. These are the local environment, staging and production environments. I also learnt about differnet workflows for WordPress, namely:
-* AWS on Vagrant
-* Wordmove
-* WordPress on Azure app Service, which I discovered.
+# Content Insights
+This week's content introduced me to the standard ways IT projects are setup and the tools involved. Based on the lesson content, I along with my group members had a meeting on Saturday. During this meeting, we put what we had learnt into practice by setting up a system for regular communications; we agreed to use [Slack](https://en.wikipedia.org/wiki/Slack_(software)), as well as WhatsApp. For our tasks management, we decided to use [Trello](https://en.wikipedia.org/wiki/Trello) rather than [GitHub Projects](https://docs.github.com/en/issues/planning-and-tracking-with-projects/learning-about-projects/about-projects). Finally, we for version control, we created a GitHub repository for our project. 
 
-In order to setup workflows with version control, I created a GitHub repository and using the All-In-One WP Migration plugin, I exported my WordPress website into the GitHub repository. Then I created the deployment workflow into my Azure App Service.
+# Career/Employability/Learning Insights
+This week, I was able to achieve the following as related to employability and career insights:
+* Increased my network on LinkedIn by connecting with my group members.
+![Group members connections](images/connections.png)
 
-# Career/Employability/Learning Insights***
-I looked at various options for having development environments, such as AWS, Wordmove and Azure. I found the Azure platform very easy to use and there were free services available for students. In Azure, I looked at using [Windows Virtual Machines (VM)s](https://learn.microsoft.com/en-us/azure/virtual-machines/windows/quick-create-portal?WT.mc_id=UI_empg) as well as [Linux VMs](https://learn.microsoft.com/en-us/azure/virtual-machines/linux/quick-create-portal?WT.mc_id=UI_empg&tabs=ubuntu) as an environment. I also looked at using [Azure App Service](https://learn.microsoft.com/en-us/azure/app-service/overview?WT.mc_id=APC-AppServices) and I learnt about [WordPress hosting on Azure](https://learn.microsoft.com/en-us/azure/app-service/migrate-wordpress?source=recommendations), using the All-in-One WP Migration plugin on WordPress. I was able to setup my own AppServcie using the WordPress hosting on Azure option.
+* Get introduced to Trello and see how cards and lists work in a project board by creating a [Trello board](https://trello.com/b/8iJMbw7E/cp5637-group-2-project-work) for our project
+![Trello](images/trelloBoard.png)
 
-Below is my configuration dashboard:
-![WordPress on Azure App service](images/wordpress_on_azure.png)
+* Integrate key applications such as OneDrive, GitHub and Trello to our [Slack group channel](https://app.slack.com/client/T1HPNSNKT/C078QLM30R4)
 
+* Setup the [GitHub repository](https://github.com/onegeniuslykdat/CP5637_GROUP2_STUDETBOARDWEBSITE) for our project as well as add a ReadMe file in the initial commit. This gave me a good understanding of how repos work. I was also able to connect with my group members and add them as collaborators to the GitHub repo.
+![Initial Commit](images/initialCommmit.png)
+![Collaborators](images/collaborators.png)
 
-I particulary liked the WordPress hosting on Azure, as this exposed me to the linux SSH and I learnt some new commands. It also integrates easily with GitHub in using deployment center, which is essential for workflows. I decided to setup my environment as follows:
-* Local - WordPress dashboard
-* Production - WordPress on Azure App service
-
-Learning about Wordpress deployment workflows is very helpful. I used the following workflow:
-* From WordPress to GitHub: ([Wordpress GitHubRepo](https://github.com/onegeniuslykdat/cp5637wordpresstest))
-![WordPress All-In-One plugin](images/all_in_one_WP_migration.png)
-  
-* From GitHub to Azure
-![GitHub repository linked to Azure](images/gitHub_on_Azure.png)
-![GitHub repository to Azure workflow](images/gitHub_action_workflow_file.png)
-
-
-Although I have some experience with development, I found setting up these environments very fun. I also enjoyed creating the deployment workflows on Azure and connecting to GitHub for version control. I intend to explore this much more. Overall, I learnt new skills which were impactful for me, as I previously did not know CMS could be used in this manner.
+I thoroughly enjoyed putting the knowledge gained in class into practice with my group members, as this exposed me to the Trello (which I had not used previously), as well as GitHub collaborations. The meeting with my group members was also very productive, as we completely achieved the setup of our project.
