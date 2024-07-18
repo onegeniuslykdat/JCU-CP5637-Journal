@@ -7,5 +7,6 @@ The repo contains:
     * [Week4](Journals/week4.md)
     * [Week5](Journals/week5.md)
     * [Week6](Journals/week6.md)
+    * [Week7](Journals/week7.md)
 
 A related repo is: [https://github.com/onegeniuslykdat/JCU-CP5637-Website](https://github.com/onegeniuslykdat/JCU-CP5637-Website)
