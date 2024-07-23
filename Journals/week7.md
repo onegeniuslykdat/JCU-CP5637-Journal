@@ -21,34 +21,31 @@ DON'T FORGET to do your group work too!!
 ****************************************
 
 # Learning Activities & Resources***
-This week I learnt about project management, specifically, setting up IT based projects and the tools involved. I also learnt about good practices involved in project management. Some of which are:
-* Regular communication such as stand-up meetings and the use of instant messaging apps such as Teams and Slack.
-* Tasks management with the use of tools like Trello, Azure Board, GitHub Projects amongst others.
-* Version control systems such as GitHub and Azure Dev-Ops
+This week I learnt about fundamentals of PHP. We were introduced to:
+* How PHP works,
+* Some of the keywords in PHP,
+* PHP file/folder structure and
+* Database in PHP using sqlite***
 
-Finally, I also liaised with my group members to put into practice some of the things we had learnt.
+I also liaised with my group members on how best to go about our project, and how to divide the tasks.
 
-# Estimated Hours***
-I spent a total of about 5 hours of my own time this week on this subject. On Friday, the next day after class, I spent an hour working on setting up my journal. I spent two additional hours on Saturday, the next day, with my group members in order to setup our project and connect on LinkedIn. The following Wednesday, I spent 2 hours working on this journal.
+# Estimated Hours
+I spent a total of about 6 hours of my own time this week on this subject. On Friday, the next day after class, I spent an hour working on setting up my journal and practising some PHP. I spent two additional hours on Saturday, the next day, with my group members in order to continue with our project tasks, by dividing out the works and getting more familiar with GitHub. The following Wednesday, I spent 3 hours working on my PHP project and completing this journal.
 
 # Content Insights***
-This week's content introduced me to the standard ways IT projects are setup and the tools involved. Based on the lesson content, I along with my group members had a meeting on Saturday. During this meeting, we put what we had learnt into practice by:
-* Setting up a system for regular communications; we agreed to use [Slack](https://en.wikipedia.org/wiki/Slack_(software)), as well as WhatsApp.
-* Setting up our tasks management system, we decided to use [Trello](https://en.wikipedia.org/wiki/Trello) rather than [GitHub Projects](https://docs.github.com/en/issues/planning-and-tracking-with-projects/learning-about-projects/about-projects).
-* Setting up our version control system, we created a GitHub repository for our project. 
+This week's content introduced me to PHP. Based on the lesson content, ***
+***I along with my group members had a meeting on Saturday. During this meeting, we put what we had learnt into practice by:
+* Divide our tasks, as seen on our [Trello Board](https://trello.com/b/8iJMbw7E/cp5637-group-2-project-work)) rather than [GitHub Projects](https://docs.github.com/en/issues/planning-and-tracking-with-projects/learning-about-projects/about-projects).
+* Setting up our version control system, we created a GitHub repository for our project. *** PR/Merging/Collaboration
 
 # Career/Employability/Learning Insights***
 This week, I was able to achieve the following as related to employability and career insights:
-* Increased my network on LinkedIn by connecting with my group members.
-![Group members connections](images/connections.png)
+* Create my own fork of the PHP Github repo, as seen [here](https://github.com/onegeniuslykdat/sample-cp5637-theadviceshop)
+* Clone the repo onto my local PC
+* Make some modifications; these include creating a separate and more improved login page, creating two functions, redesigning the header and footer sections***
+* Commit my changes to my PC and push to my online fork
 
-* Get introduced to Trello and see how cards and lists work in a project board by creating a [Trello board](https://trello.com/b/8iJMbw7E/cp5637-group-2-project-work) for our project.
-![Trello](images/trelloBoard.png)
+* Make PR *** [GitHub repository](https://github.com/onegeniuslykdat/CP5637_GROUP2_STUDETBOARDWEBSITE) *** for our project as well as add a ReadMe file in the initial commit. This gave me a good understanding of how repos work.
 
-* Integrate key applications such as OneDrive, GitHub and Trello to our [Slack group channel](https://app.slack.com/client/T1HPNSNKT/C078QLM30R4).
-
-* Setup the [GitHub repository](https://github.com/onegeniuslykdat/CP5637_GROUP2_STUDETBOARDWEBSITE) for our project as well as add a ReadMe file in the initial commit. This gave me a good understanding of how repos work. I was also able to connect with my group members and add them as collaborators to the GitHub repo.
-![Initial Commit](images/initialCommmit.png)
-![Collaborators](images/collaborators.png)
-
-I thoroughly enjoyed putting the knowledge gained in class into practice with my group members, as this exposed me to the Trello (which I had not used previously), as well as GitHub collaborations. The meeting with my group members was also very productive, as we completely achieved the setup of our project.
+I found setting up and getting started with PHP very simple. *** include, <?php*** 
+***I thoroughly enjoyed putting the knowledge gained in class into practice with my group members, as this exposed me to the Trello (which I had not used previously), as well as GitHub collaborations. The meeting with my group members was also very productive, as we completely achieved the setup of our project.
