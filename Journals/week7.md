@@ -34,9 +34,21 @@ I spent a total of about 6 hours of my own time this week on this subject. On Fr
 
 # Content Insights***
 This week's content introduced me to PHP. Based on the lesson content, ***
-***I along with my group members had a meeting on Saturday. During this meeting, we put what we had learnt into practice by:
-* Divide our tasks, as seen on our [Trello Board](https://trello.com/b/8iJMbw7E/cp5637-group-2-project-work)) rather than [GitHub Projects](https://docs.github.com/en/issues/planning-and-tracking-with-projects/learning-about-projects/about-projects).
-* Setting up our version control system, we created a GitHub repository for our project. *** PR/Merging/Collaboration
+I was able to achieve the following, as seen in this [commit](***):
+* Use the echo function to display different HTML elements
+![](images/***)
+* Use if/else for decisions statements
+ ![](images/***) 
+* Use foreach loop on an array to show repitition
+![](images/***)
+* Create and call functions with parameters
+![](images/***)
+* Make use of the include function to add the common header and footer onto the two new pages that I created
+![](images/***)
+
+***For our group work, I along with my group members had a meeting on Saturday. During this meeting, we put what we had learnt into practice by:
+* Dividing our tasks, as seen on our [Trello Board](https://trello.com/b/8iJMbw7E/cp5637-group-2-project-work))
+* Setting up our version control system, we structured our project GitHub repository. *** PR/Merging/Collaboration
 
 # Career/Employability/Learning Insights***
 This week, I was able to achieve the following as related to employability and career insights:
@@ -48,4 +60,4 @@ This week, I was able to achieve the following as related to employability and c
 * Make PR *** [GitHub repository](https://github.com/onegeniuslykdat/CP5637_GROUP2_STUDETBOARDWEBSITE) *** for our project as well as add a ReadMe file in the initial commit. This gave me a good understanding of how repos work.
 
 I found setting up and getting started with PHP very simple. *** include, <?php*** 
-***I thoroughly enjoyed putting the knowledge gained in class into practice with my group members, as this exposed me to the Trello (which I had not used previously), as well as GitHub collaborations. The meeting with my group members was also very productive, as we completely achieved the setup of our project.
+***I thoroughly enjoyed putting the knowledge gained in class into practice in my php project and I can say that I now have a fair understanding how to create a simple php website. The meeting with my group members was also very productive, as we completely achieved our goal to divide the tasks required, based on the content provided.
