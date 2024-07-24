@@ -1,25 +1,6 @@
 # Week 7
 Monday, 15-Jul-2024 to Saturday, 20-Jul-2024
 
-****************************************
-Task: Write and run PHP code to demonstrate your understanding of the features/skills below. The content of the page/site is up to you but it must be original and cannot come from some PHP tutorial.
-
-Submit:
-
-Upload your PHP file/s
-A link to your learning journal entry
-If you like, you can fork The Advice Shop site, get it running, and then update it by making a proper login system and other nice enhancements.
-
-You must demonstrate (at least):
-
-Echo - echoing different kinds of HTML
-Decisions - if/else statements
-Repetition - for, while, foreach (use an array)
-Functions - with parameters
-Include - make two (2) pages that include a common header and/or footer using include
-DON'T FORGET to do your group work too!!
-****************************************
-
 # Learning Activities & Resources
 This week I learnt about fundamentals of PHP. We were introduced to:
 * How PHP works,
@@ -36,12 +17,16 @@ I spent a total of about 6 hours of my own time this week on this subject. On Fr
 This week's content introduced me to PHP. Based on the lesson content, I was able to achieve the following, as seen in this [commit](https://github.com/onegeniuslykdat/sample-cp5637-theadviceshop/commit/c585fd0f92746c295e71962c48bb3af31733d84c):
 * Use the echo function to display different HTML elements
 ![The use of echo](images/echo.png)
+
 * Use if/else for decisions statements
- ![The use of if-else](images/ifElse.png) 
+![The use of if-else](images/ifElse.png) 
+
 * Use foreach loop on an array to show repitition
 ![The use of for-each](images/forEach.png)
+
 * Create and call functions with parameters
 ![The use of functions](images/functions.png)
+
 * Make use of the include function to add the common header and footer onto the two new pages that I created
 ![The use of include](images/include.png)
 
