@@ -31,14 +31,14 @@ This week's content introduced me to PHP. Based on the lesson content, I was abl
 ![The use of include](images/include.png)
 
 For our group work, I along with my group members had a meeting on Saturday. During this meeting, we put what we had learnt into practice by:
-* Dividing our tasks, as seen on our [Trello Board](https://trello.com/b/8iJMbw7E/cp5637-group-2-project-work))
+* Dividing our tasks, as seen on our [Trello Board](https://trello.com/b/8iJMbw7E/cp5637-group-2-project-work)
 * Setting up our version control system, we structured our project GitHub repository, with each of us having a branch. We then created [Pull Requests (PR)s](https://github.com/onegeniuslykdat/CP5637_GROUP2_STUDETBOARDWEBSITE/pulls?q=is%3Apr+is%3Aclosed) in order to merge the changes for our site.md, theme.md, readme.md and deployment.md files.
 
 # Career/Employability/Learning Insights
 This week, I was able to achieve the following as related to employability and career insights:
 * Create my own fork of the PHP Github repo, as seen [here](https://github.com/onegeniuslykdat/sample-cp5637-theadviceshop)
 * Clone the repo onto my local PC
-* Make some modifications; these include creating a separate and more improved login page, creating two functions, redesigning the header and footer sections***
+* Make some modifications; these include creating a separate and more improved login page, creating two functions, redesigning the header and footer sections
 * Commit my changes to my PC and push to my online fork
 
 I found setting up and getting started with PHP very simple. The syntax of php, however, seems a bit tricky with the '<?php ?>' tag in the html files. Overall,, I thoroughly enjoyed putting the knowledge gained in class into practice in my php project and I can say that I now have a fair understanding how to create a simple php website. The meeting with my group members was also very productive, as we completely achieved our goal to divide the tasks required, based on the content provided.
