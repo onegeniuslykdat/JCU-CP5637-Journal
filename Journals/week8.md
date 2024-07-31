@@ -10,6 +10,7 @@ I knew next to nothing about Content Management Systems (CMS)s and PHP. However,
 
 # Hypothesis
 My CMS along with my PHP skills have been developed to the industry standard levels due to expansive knowledge, weekly practicals and assignments.
+
 *Practice makes perfect!*
 
 # Prediction
