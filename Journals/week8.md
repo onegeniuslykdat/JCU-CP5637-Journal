@@ -26,3 +26,10 @@ I was able to create the following websites using CMS:
 
 In the practical [last week](week7.md), I also demostrated how I worked with the PHP sample application provided. Finally, in addition to CMS and PHP, I have also greatly improved my git and markdown skills by consistently creating these journals on GitHub usign .md files.
 
+# Career/Employability/Learning Insights
+My learning in this course has given me the following insights into CMS and PHP:
+
+* CMS are a very quick way for organizations especially, to setup a website with lots of functionality. Such organizations might need websites for shopping, event management, holiday destinations management, etc. There would definitely be a plugin to help achieve these.
+* PHP is a very easy to setup and use programming language for web applications. It easily integrates its backend php files with html pages.
+
+I have thoroughly enjoyed putting my classroom knowledge into practice throughout this course.
