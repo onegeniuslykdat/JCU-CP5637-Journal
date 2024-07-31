@@ -9,7 +9,8 @@ I have had to engage in practicals every week. I have also had to commit an aver
 I knew next to nothing about Content Management Systems (CMS)s and PHP. However, 8 weeks into the course, I can say that I have good knowledge of these concepts.
 
 # Hypothesis
-My CMS along with my PHP skills have been developed to the industry standard levels due to expansive knowledge, weekly practicals and assignments. *Practice makes perfect!*
+My CMS along with my PHP skills have been developed to the industry standard levels due to expansive knowledge, weekly practicals and assignments.
+*Practice makes perfect!*
 
 # Prediction
 I will be able to create a website using a CMS such as [WordPress](https://wordpress.org/) or [Joomla](https://www.joomla.org/). I will also be able to setup a PHP web application and enhance it with functionalities.
@@ -22,5 +23,5 @@ I was able to create the following websites using CMS:
 * [Joomla CMS site](https://sfnstartup.cloudaccess.host/index.php)
 * [WordPress CMS site](https://wordpresssfnstartup.cloudaccess.host/)
 
-In the practical [last week](/week7.md), I also demostrated how I worked with the PHP sample application provided. Finally, in addition to CMS and PHP, I have also greatly improved my git and markdown skills by consistently creating these journals on GitHub usign .md files.
+In the practical [last week](week7.md), I also demostrated how I worked with the PHP sample application provided. Finally, in addition to CMS and PHP, I have also greatly improved my git and markdown skills by consistently creating these journals on GitHub usign .md files.
 
