@@ -3,6 +3,7 @@ Monday, 29-Jul-2024 to Saturday, 03-Aug-2024
 
 ************************************************
 You must demonstrate (at least):
+sass with node
 variables
 nesting
 mixins
@@ -10,8 +11,10 @@ extend/inheritance
 ************************************************
 
 # Learning Activities & Resources***
-This week I learnt about the most popular Content Management System (CMS), Wordpress, in terms of traffic as revealed by [W3Techs](https://w3techs.com/technologies/overview/content_management) in this image below
-![Top CMS](https://www.bacancytechnology.com/blog/wp-content/uploads/2020/07/WordPress-Joomla-Drupal-Usage-Statistics.png)
+This week I learnt about the most popular SASS, which is ***. We were introduced to:***
+* What SASS is
+* Installing SASS
+
 
 I also had discussions with my course mates and asked them the following questions, so as to form a group:
 * What are your strengths?
