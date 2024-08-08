@@ -27,7 +27,7 @@ Based on the lesson content, I was able to achieve the following, as seen in thi
 
 ![SASS works](images/nesting_1.png)
 
-![SASS works](images/nesting_2_png)
+![SASS works](images/nesting_2.png)
 
 ![SASS works](images/inheritance.png)
 
