@@ -11,28 +11,44 @@ extend/inheritance
 ************************************************
 
 # Learning Activities & Resources***
-This week I learnt about the most popular SASS, which is ***. We were introduced to:***
+This week I learnt about SASS, which stands for Syntactically Awesome Style Sheets. Sass is a preprocessor scripting language that is interpreted or compiled into Cascading Style Sheets. It allows CSS to use the SOLID principles of software development throught the use of variables and other programming constructs. We were introduced to:***
 * What SASS is
-* Installing SASS
-
-
-I also had discussions with my course mates and asked them the following questions, so as to form a group:
-* What are your strengths?
-* What are your weaknesses?
-* What is your most frequesnt mode of communication?
+* How to install SASS
+* Using SASs with PHP and NPM
+* SASS sytax
 
 # Estimated Hours
 I spent a total of about 8 hours of my own time this week on this subject. On Saturday, I first had a two hour meeting with my group members and then I did about an hour of study on SASS. The following week, I spent 2 hours each, on Monday and Wednesday working on converting this [php project](https://github.com/onegeniuslykdat/sample-cp5637-theadviceshop)) from using CSS to SASS. Finally on Thursday, I spent an hour working on this journal.
 
-# Content Insights***
-This week's content introduced Wordpress and also team communiction, as we were introduced to setting a wordpress site and also talking to our class mates to recognize their group qualities. Similar to Joomla, Wordpress also has the option of downloading to your PC, or launching a site online.
+# Content Insights
+This week's content introduced SASS. I understood why SASS is very useful, especally for large projects. I was able to install SASS in the php project, and enable the watcher using the npm watch command. Finally, I got introduced to the syntax by using variables, creating styles nests and using mixins.
+![sass syntax](https://miro.medium.com/v2/resize:fit:1400/1*kzhLB2yCt8ULHKBxKLbdHQ.png)
 
-We were also introduced to virtual environments such as Scotchbox/Vagrant. These environments help software develoipment teams to quickly setup projects with the correct configurations. Vagrant is a tool for building and distributing development environments. Scotch Box on the other hand, is a pre-configured Vagrant Box with a full array of LAMP Stack features to get you up and running with Vagrant in no time.
+***
+This week's content introduced me to PHP. Based on the lesson content, I was able to achieve the following, as seen in this [commit](https://github.com/onegeniuslykdat/sample-cp5637-theadviceshop/commit/c585fd0f92746c295e71962c48bb3af31733d84c):
+* Use the echo function to display different HTML elements
+![The use of echo](images/echo.png)
+
+* Use if/else for decisions statements
+![The use of if-else](images/ifElse.png) 
+
+* Use foreach loop on an array to show repitition
+![The use of for-each](images/forEach.png)
+
+* Create and call functions with parameters
+![The use of functions](images/functions.png)
+
+* Make use of the include function to add the common header and footer onto the two new pages that I created
+![The use of include](images/include.png)
+***
 
 # Career/Employability/Learning Insights***
-Creating the Wordpress website for my startup was new to me, as I had never done it before. After my experience last week with Joomla, I found this a bit easier to setup. However, editing the site seemed more complex than Joomal's. I started looking at the [LinkedIn Learning WordPress Course](https://www.linkedin.com/learning/wordpress-essential-training-22616273/getting-started-with-wordpress?u=2223545) and it proved very helpful. Overall, this process was somewhat simple to setup, but a bit tidious to customize the site. I intend to watch more videos and study more about it.
+This week, I was able to achieve the following as related to employability and career insights:
+* Convert the php project from using css to sass, as shown [here](https://github.com/onegeniuslykdat/sample-cp5637-theadviceshop)
+* Understand how npm works with css. How it converts the sass input file to a css output file
+* Make some modifications; these include creating a variables, misins, etc.
 
-
+***I found setting up and getting started with PHP very simple. The syntax of php, however, seems a bit tricky with the '<?php ?>' tag in the html files. Overall,, I thoroughly enjoyed putting the knowledge gained in class into practice in my php project and I can say that I now have a fair understanding how to create a simple php website. The meeting with my group members was also very productive, as we completely achieved our goal to divide the tasks required, based on the content provided.
 
 
 ***************** FROM WEEK 7 ****************************
