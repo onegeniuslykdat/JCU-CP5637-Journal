@@ -15,7 +15,6 @@ I spent a total of about 8 hours of my own time this week on this subject. On Sa
 
 # Content Insights
 This week's content introduced SASS. I understood why SASS is very useful, especally for large projects. I was able to install SASS in the php project, and enable the watcher using the npm watch command. Finally, I got introduced to the syntax by using variables, prforming basic arithmetic, creating styles nests and using mixins.
-![sass syntax](https://miro.medium.com/v2/resize:fit:1400/1*kzhLB2yCt8ULHKBxKLbdHQ.png)
 
 Based on the lesson content, I was able to achieve the following, as seen in this [commit](***):
 * Create variabes
