@@ -13,7 +13,7 @@ I learnt about the type and frequency of website hacking occuring globally, as s
 I spent a total of about 4 hours of my own time this week on this subject. On Friday, I spent 2 hours with my team members working on our project presentation video. On Saturday, I spent 2 hours working on this journal.
 
 # Content Insights
-This week's content introduced security in CMS and websites in general. I understood why security is very important and [the most common website attacks](https://www.tripwire.com/state-of-security/most-common-website-security-attacks-and-how-to-protect-yourself). I understood that the general overal solutions to security issues are:
+This week's content introduced security in CMS and websites in general. I understood why security is very important and [the most common website attacks](https://www.tripwire.com/state-of-security/most-common-website-security-attacks-and-how-to-protect-yourself). I understood that the general overall solutions to security issues are:
 * Limiting access : Reduce possible entry points available to a malicious person​
 * Containment: Minimise the amount of damage that can be done in the event that it is compromised​
 * Preparation and knowledge: Keep backups and know the state of your website installation at regular intervals; have a backup and recovery plan​
@@ -23,8 +23,8 @@ This week's content introduced security in CMS and websites in general. I unders
 This week, I was able to achieve the following as related to employability and career insights:
 * Ensure that WordPress versions are up-to-date so as to have the latest vulnerability fixes and patches.
 * Change table prefix from the default ***wp_*** to something else, in order to prevent sql injection attacks
-* The use of ***iThemes Security*** to help manage security issues
-* Use the correct file permissions, rather just defining full access
+* Install ***iThemes Security*** plugin to help manage security issues
+* Use the correct file permissions, rather than just defining full access
 * Turn off ***PHP error reporting*** for live sites
 * Edit ***.htaccess*** for improved security
 
