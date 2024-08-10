@@ -1,41 +1,33 @@
 # Week 10
 Monday, 05-Aug-2024 to Saturday, 10-Aug-2024
 
-# Learning Activities & Resources***
-This week I learnt about Security***
+# Learning Activities & Resources
+This week I learnt about Security, especially as it relates to Content Management Systems. We looked at:
+* The need for security measures on CMS​
+* Installations and maintenance considerations​
+* How to make a WordPress site more secure than the default installation​
 
-I also studied the [LinkedIn Course on SASS](https://www.linkedin.com/learning/sass-essential-training-15630917/) for more knowledge, as I found SASS very interesting.
+I learnt about the type and frequency of website hacking occuring globally, as seen [here](https://patchstack.com/articles/website-hacking-statistics/). I also learnt about the number of vulnerabilities for different versions of WordPress, as seen [here](https://www.wpwhitesecurity.com/wordpress-security-news-updates/statistics-70-percent-wordpress-installations-vulnerable/).
+​
+# Estimated Hours
+I spent a total of about 4 hours of my own time this week on this subject. On Friday, I spent 2 hours with my team members working on our project presentation video. On Saturday, I spent 2 hours working on this journal.
 
-# Estimated Hours***
-I spent a total of about 4 hours of my own time this week on this subject. ***On Saturday, I first had a two hour meeting with my group members. The following week, I spent 2 hours each, on Monday, Wednesday and Thursday working on converting this [php project](https://github.com/onegeniuslykdat/sample-cp5637-theadviceshop)) from using CSS to SASS. Additionally on Thursday, I also completed this journal.
+# Content Insights
+This week's content introduced security in CMS and websites in general. I understood why security is very important and [the most common website attacks](https://www.tripwire.com/state-of-security/most-common-website-security-attacks-and-how-to-protect-yourself). I understood that the general overal solutions to security issues are:
+* Limiting access : Reduce possible entry points available to a malicious person​
+* Containment: Minimise the amount of damage that can be done in the event that it is compromised​
+* Preparation and knowledge: Keep backups and know the state of your website installation at regular intervals; have a backup and recovery plan​
+* Trusted Sources​: Do not get plugins/themes from untrusted sources; ​only use official repositories or well known companies​
 
-# Content Insights***
-This week's content introduced SASS. I understood why SASS is very useful, especally for large projects. I was able to install SASS in the php project, and enable the watcher using the npm watch command. Finally, I got introduced to the syntax by using variables, prforming basic arithmetic, creating styles nests and using mixins.
-
-Based on the lesson content, I was able to achieve the following, as seen in this [commit](https://github.com/onegeniuslykdat/sample-cp5637-theadviceshop/commit/05b6cc1aba2ae8635a58f8dc8ea04f3d3e9cc505) created in the [new branch](https://github.com/onegeniuslykdat/sample-cp5637-theadviceshop/tree/sassDemo):
-* Create variabes
-* Perform simple arithmetic operations
-* Use in-built functions, such as darken and adjust-hue
-* Create a mixin
-* Nest related styles
-* Use inheritance
-* Extending
-
-![SASS works](images/nesting_1.png)
-
-![SASS works](images/nesting_2.png)
-
-![SASS works](images/inheritance.png)
-
-![SASS works](images/extend.png)
-
-# Career/Employability/Learning Insights***
+# Career/Employability/Learning Insights
 This week, I was able to achieve the following as related to employability and career insights:
-* Convert the php project from using css to sass, as shown [here](https://github.com/onegeniuslykdat/sample-cp5637-theadviceshop)
-* Understand how npm works with css. How it converts the sass input file to a css output file
-* Make some modifications; these include creating a variables, using mixins, etc.
-* Understand how npm tracks automatically tracks changes in the sass file; using the command: *sass --watch  styles/mainstyles.scss:styles/mainstyles.cs*.
+* Ensure that WordPress versions are up-to-date so as to have the latest vulnerability fixes and patches.
+* Change table prefix from the default ***wp_*** to something else, in order to prevent sql injection attacks
+* The use of ***iThemes Security*** to help manage security issues
+* Use the correct file permissions, rather just defining full access
+* Turn off ***PHP error reporting*** for live sites
+* Edit ***.htaccess*** for improved security
 
-![Tracking SASS changes](images/tracking_sass.png)
+Although I generally do not find security very interesting, I found these tips for improving security (on WordPress sites) very helpful. In working with WordPress in the future, I would definitely ensure that I apply some of these insights. 
 
-I thoroughly enjoyed working with SASS. It really simplified the CSS file. The syntax is also similar to regular CSS and Javascript, so creating variables and mixins was pretty easy. Overall, this new skill would really enhance my professional career. I can say that I now have a very good understanding of SASS.
+Finally, these past 10 weeks have really *opened my eyes* about CMS and I have enjoyed working on these tasks.
